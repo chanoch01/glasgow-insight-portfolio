@@ -1,10 +1,9 @@
 # Glasgow Insight Portfolio
 
-Three short data projects built on public Glasgow data to prepare for the Business
-Insight Analyst role in Neighbourhoods, Regeneration and Sustainability at Glasgow City
+Three short data projects built on public Glasgow data in Neighbourhoods, Regeneration and Sustainability at Glasgow City
 Council.
 
-These are personal preparation projects, not commissioned council work. The datasets are
+These are personal projects, not commissioned council work. The datasets are
 modelled and calibrated to published figures (SEPA household waste statistics, Glasgow
 Low Emission Zone air quality results, Cycling Scotland active travel surveys), not raw
 council feeds. Every project says so in its own README and in the deliverable itself.
