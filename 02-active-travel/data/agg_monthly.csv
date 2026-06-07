@@ -1,0 +1,229 @@
+route,route_type,year,month,monthly_cyclists,avg_daily
+Connect2 / Clyde path,Leisure,2021,1,6684,216.0
+Connect2 / Clyde path,Leisure,2021,2,7284,260.0
+Connect2 / Clyde path,Leisure,2021,3,9380,303.0
+Connect2 / Clyde path,Leisure,2021,4,10599,353.0
+Connect2 / Clyde path,Leisure,2021,5,13486,435.0
+Connect2 / Clyde path,Leisure,2021,6,13255,442.0
+Connect2 / Clyde path,Leisure,2021,7,13769,444.0
+Connect2 / Clyde path,Leisure,2021,8,11867,383.0
+Connect2 / Clyde path,Leisure,2021,9,9858,329.0
+Connect2 / Clyde path,Leisure,2021,10,8741,282.0
+Connect2 / Clyde path,Leisure,2021,11,6830,228.0
+Connect2 / Clyde path,Leisure,2021,12,6365,205.0
+Connect2 / Clyde path,Leisure,2022,1,7080,228.0
+Connect2 / Clyde path,Leisure,2022,2,7488,267.0
+Connect2 / Clyde path,Leisure,2022,3,9991,322.0
+Connect2 / Clyde path,Leisure,2022,4,11504,383.0
+Connect2 / Clyde path,Leisure,2022,5,13233,427.0
+Connect2 / Clyde path,Leisure,2022,6,14041,468.0
+Connect2 / Clyde path,Leisure,2022,7,13715,442.0
+Connect2 / Clyde path,Leisure,2022,8,12181,393.0
+Connect2 / Clyde path,Leisure,2022,9,10680,356.0
+Connect2 / Clyde path,Leisure,2022,10,9389,303.0
+Connect2 / Clyde path,Leisure,2022,11,7256,242.0
+Connect2 / Clyde path,Leisure,2022,12,7252,234.0
+Connect2 / Clyde path,Leisure,2023,1,7488,242.0
+Connect2 / Clyde path,Leisure,2023,2,7911,283.0
+Connect2 / Clyde path,Leisure,2023,3,10907,352.0
+Connect2 / Clyde path,Leisure,2023,4,12264,409.0
+Connect2 / Clyde path,Leisure,2023,5,14823,478.0
+Connect2 / Clyde path,Leisure,2023,6,14517,484.0
+Connect2 / Clyde path,Leisure,2023,7,14730,475.0
+Connect2 / Clyde path,Leisure,2023,8,12984,419.0
+Connect2 / Clyde path,Leisure,2023,9,11413,380.0
+Connect2 / Clyde path,Leisure,2023,10,9861,318.0
+Connect2 / Clyde path,Leisure,2023,11,7574,252.0
+Connect2 / Clyde path,Leisure,2023,12,7280,235.0
+Connect2 / Clyde path,Leisure,2024,1,7714,249.0
+Connect2 / Clyde path,Leisure,2024,2,8752,302.0
+Connect2 / Clyde path,Leisure,2024,3,11470,370.0
+Connect2 / Clyde path,Leisure,2024,4,12659,422.0
+Connect2 / Clyde path,Leisure,2024,5,15520,501.0
+Connect2 / Clyde path,Leisure,2024,6,15923,531.0
+Connect2 / Clyde path,Leisure,2024,7,15214,491.0
+Connect2 / Clyde path,Leisure,2024,8,14302,461.0
+Connect2 / Clyde path,Leisure,2024,9,11981,399.0
+Connect2 / Clyde path,Leisure,2024,10,9939,321.0
+Connect2 / Clyde path,Leisure,2024,11,8050,268.0
+Connect2 / Clyde path,Leisure,2024,12,8075,260.0
+Connect2 / Clyde path,Leisure,2025,1,8518,275.0
+Connect2 / Clyde path,Leisure,2025,2,8884,317.0
+Connect2 / Clyde path,Leisure,2025,3,12940,417.0
+Connect2 / Clyde path,Leisure,2025,4,13352,445.0
+Connect2 / Clyde path,Leisure,2025,5,15932,514.0
+Connect2 / Clyde path,Leisure,2025,6,16126,538.0
+Connect2 / Clyde path,Leisure,2025,7,15833,511.0
+Connect2 / Clyde path,Leisure,2025,8,15631,504.0
+Connect2 / Clyde path,Leisure,2025,9,12460,415.0
+Sauchiehall Avenue,Mixed,2021,1,4644,150.0
+Sauchiehall Avenue,Mixed,2021,2,5079,181.0
+Sauchiehall Avenue,Mixed,2021,3,6863,221.0
+Sauchiehall Avenue,Mixed,2021,4,7685,256.0
+Sauchiehall Avenue,Mixed,2021,5,8448,273.0
+Sauchiehall Avenue,Mixed,2021,6,8716,291.0
+Sauchiehall Avenue,Mixed,2021,7,8722,281.0
+Sauchiehall Avenue,Mixed,2021,8,8342,269.0
+Sauchiehall Avenue,Mixed,2021,9,7077,236.0
+Sauchiehall Avenue,Mixed,2021,10,6120,197.0
+Sauchiehall Avenue,Mixed,2021,11,4995,167.0
+Sauchiehall Avenue,Mixed,2021,12,5068,163.0
+Sauchiehall Avenue,Mixed,2022,1,5074,164.0
+Sauchiehall Avenue,Mixed,2022,2,5469,195.0
+Sauchiehall Avenue,Mixed,2022,3,7166,231.0
+Sauchiehall Avenue,Mixed,2022,4,7906,264.0
+Sauchiehall Avenue,Mixed,2022,5,9286,300.0
+Sauchiehall Avenue,Mixed,2022,6,9689,323.0
+Sauchiehall Avenue,Mixed,2022,7,9864,318.0
+Sauchiehall Avenue,Mixed,2022,8,8966,289.0
+Sauchiehall Avenue,Mixed,2022,9,7597,253.0
+Sauchiehall Avenue,Mixed,2022,10,6505,210.0
+Sauchiehall Avenue,Mixed,2022,11,5315,177.0
+Sauchiehall Avenue,Mixed,2022,12,5132,166.0
+Sauchiehall Avenue,Mixed,2023,1,5546,179.0
+Sauchiehall Avenue,Mixed,2023,2,5508,197.0
+Sauchiehall Avenue,Mixed,2023,3,7618,246.0
+Sauchiehall Avenue,Mixed,2023,4,8476,283.0
+Sauchiehall Avenue,Mixed,2023,5,11214,362.0
+Sauchiehall Avenue,Mixed,2023,6,10783,359.0
+Sauchiehall Avenue,Mixed,2023,7,10917,352.0
+Sauchiehall Avenue,Mixed,2023,8,10334,333.0
+Sauchiehall Avenue,Mixed,2023,9,8502,283.0
+Sauchiehall Avenue,Mixed,2023,10,6623,214.0
+Sauchiehall Avenue,Mixed,2023,11,5900,197.0
+Sauchiehall Avenue,Mixed,2023,12,5447,176.0
+Sauchiehall Avenue,Mixed,2024,1,6131,198.0
+Sauchiehall Avenue,Mixed,2024,2,6450,222.0
+Sauchiehall Avenue,Mixed,2024,3,8560,276.0
+Sauchiehall Avenue,Mixed,2024,4,10005,334.0
+Sauchiehall Avenue,Mixed,2024,5,11465,370.0
+Sauchiehall Avenue,Mixed,2024,6,11515,384.0
+Sauchiehall Avenue,Mixed,2024,7,11662,376.0
+Sauchiehall Avenue,Mixed,2024,8,10698,345.0
+Sauchiehall Avenue,Mixed,2024,9,8851,295.0
+Sauchiehall Avenue,Mixed,2024,10,7838,253.0
+Sauchiehall Avenue,Mixed,2024,11,6155,205.0
+Sauchiehall Avenue,Mixed,2024,12,5698,184.0
+Sauchiehall Avenue,Mixed,2025,1,6528,211.0
+Sauchiehall Avenue,Mixed,2025,2,6759,241.0
+Sauchiehall Avenue,Mixed,2025,3,9204,297.0
+Sauchiehall Avenue,Mixed,2025,4,10102,337.0
+Sauchiehall Avenue,Mixed,2025,5,12612,407.0
+Sauchiehall Avenue,Mixed,2025,6,12303,410.0
+Sauchiehall Avenue,Mixed,2025,7,12911,416.0
+Sauchiehall Avenue,Mixed,2025,8,11218,362.0
+Sauchiehall Avenue,Mixed,2025,9,9680,323.0
+South City Way,Commuter,2021,1,6896,222.0
+South City Way,Commuter,2021,2,7381,264.0
+South City Way,Commuter,2021,3,9883,319.0
+South City Way,Commuter,2021,4,11528,384.0
+South City Way,Commuter,2021,5,13607,439.0
+South City Way,Commuter,2021,6,14334,478.0
+South City Way,Commuter,2021,7,14176,457.0
+South City Way,Commuter,2021,8,13456,434.0
+South City Way,Commuter,2021,9,11086,370.0
+South City Way,Commuter,2021,10,9233,298.0
+South City Way,Commuter,2021,11,7623,254.0
+South City Way,Commuter,2021,12,7731,249.0
+South City Way,Commuter,2022,1,8149,263.0
+South City Way,Commuter,2022,2,8370,299.0
+South City Way,Commuter,2022,3,11585,374.0
+South City Way,Commuter,2022,4,13067,436.0
+South City Way,Commuter,2022,5,15525,501.0
+South City Way,Commuter,2022,6,16214,540.0
+South City Way,Commuter,2022,7,15656,505.0
+South City Way,Commuter,2022,8,14866,480.0
+South City Way,Commuter,2022,9,12328,411.0
+South City Way,Commuter,2022,10,10102,326.0
+South City Way,Commuter,2022,11,8615,287.0
+South City Way,Commuter,2022,12,8128,262.0
+South City Way,Commuter,2023,1,8501,274.0
+South City Way,Commuter,2023,2,9557,341.0
+South City Way,Commuter,2023,3,12796,413.0
+South City Way,Commuter,2023,4,13861,462.0
+South City Way,Commuter,2023,5,17150,553.0
+South City Way,Commuter,2023,6,18122,604.0
+South City Way,Commuter,2023,7,16861,544.0
+South City Way,Commuter,2023,8,16272,525.0
+South City Way,Commuter,2023,9,13441,448.0
+South City Way,Commuter,2023,10,11342,366.0
+South City Way,Commuter,2023,11,9745,325.0
+South City Way,Commuter,2023,12,9204,297.0
+South City Way,Commuter,2024,1,9714,313.0
+South City Way,Commuter,2024,2,11286,389.0
+South City Way,Commuter,2024,3,13432,433.0
+South City Way,Commuter,2024,4,15720,524.0
+South City Way,Commuter,2024,5,20008,645.0
+South City Way,Commuter,2024,6,18236,608.0
+South City Way,Commuter,2024,7,19948,643.0
+South City Way,Commuter,2024,8,17099,552.0
+South City Way,Commuter,2024,9,14660,489.0
+South City Way,Commuter,2024,10,13047,421.0
+South City Way,Commuter,2024,11,10544,351.0
+South City Way,Commuter,2024,12,9968,322.0
+South City Way,Commuter,2025,1,10691,345.0
+South City Way,Commuter,2025,2,11657,416.0
+South City Way,Commuter,2025,3,14723,475.0
+South City Way,Commuter,2025,4,18196,607.0
+South City Way,Commuter,2025,5,19563,631.0
+South City Way,Commuter,2025,6,21670,722.0
+South City Way,Commuter,2025,7,21261,686.0
+South City Way,Commuter,2025,8,18583,599.0
+South City Way,Commuter,2025,9,16940,565.0
+South West City Way,Commuter,2021,1,3129,101.0
+South West City Way,Commuter,2021,2,3368,120.0
+South West City Way,Commuter,2021,3,4989,161.0
+South West City Way,Commuter,2021,4,5495,183.0
+South West City Way,Commuter,2021,5,6436,208.0
+South West City Way,Commuter,2021,6,6764,225.0
+South West City Way,Commuter,2021,7,6999,226.0
+South West City Way,Commuter,2021,8,6265,202.0
+South West City Way,Commuter,2021,9,5346,178.0
+South West City Way,Commuter,2021,10,4789,154.0
+South West City Way,Commuter,2021,11,4062,135.0
+South West City Way,Commuter,2021,12,3900,126.0
+South West City Way,Commuter,2022,1,4233,137.0
+South West City Way,Commuter,2022,2,4620,165.0
+South West City Way,Commuter,2022,3,6248,202.0
+South West City Way,Commuter,2022,4,6891,230.0
+South West City Way,Commuter,2022,5,8560,276.0
+South West City Way,Commuter,2022,6,9151,305.0
+South West City Way,Commuter,2022,7,8433,272.0
+South West City Way,Commuter,2022,8,8434,272.0
+South West City Way,Commuter,2022,9,6951,232.0
+South West City Way,Commuter,2022,10,5943,192.0
+South West City Way,Commuter,2022,11,5100,170.0
+South West City Way,Commuter,2022,12,4945,160.0
+South West City Way,Commuter,2023,1,5377,173.0
+South West City Way,Commuter,2023,2,5864,209.0
+South West City Way,Commuter,2023,3,7812,252.0
+South West City Way,Commuter,2023,4,9125,304.0
+South West City Way,Commuter,2023,5,10822,349.0
+South West City Way,Commuter,2023,6,11360,379.0
+South West City Way,Commuter,2023,7,11790,380.0
+South West City Way,Commuter,2023,8,10758,347.0
+South West City Way,Commuter,2023,9,9033,301.0
+South West City Way,Commuter,2023,10,7541,243.0
+South West City Way,Commuter,2023,11,6665,222.0
+South West City Way,Commuter,2023,12,6148,198.0
+South West City Way,Commuter,2024,1,6622,214.0
+South West City Way,Commuter,2024,2,8250,284.0
+South West City Way,Commuter,2024,3,10085,325.0
+South West City Way,Commuter,2024,4,12297,410.0
+South West City Way,Commuter,2024,5,14473,467.0
+South West City Way,Commuter,2024,6,13938,465.0
+South West City Way,Commuter,2024,7,14800,477.0
+South West City Way,Commuter,2024,8,13816,446.0
+South West City Way,Commuter,2024,9,11513,384.0
+South West City Way,Commuter,2024,10,10330,333.0
+South West City Way,Commuter,2024,11,8212,274.0
+South West City Way,Commuter,2024,12,8340,269.0
+South West City Way,Commuter,2025,1,9127,294.0
+South West City Way,Commuter,2025,2,9865,352.0
+South West City Way,Commuter,2025,3,12757,412.0
+South West City Way,Commuter,2025,4,15565,519.0
+South West City Way,Commuter,2025,5,18029,582.0
+South West City Way,Commuter,2025,6,18537,618.0
+South West City Way,Commuter,2025,7,19654,634.0
+South West City Way,Commuter,2025,8,17631,569.0
+South West City Way,Commuter,2025,9,15377,513.0

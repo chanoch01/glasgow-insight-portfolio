@@ -1,0 +1,33 @@
+local_authority,classification,population
+Glasgow City,Urban,622820
+City of Edinburgh,Urban,514990
+Aberdeen City,Urban,224190
+Dundee City,Urban,148270
+North Lanarkshire,Urban,341370
+South Lanarkshire,Mixed,327030
+Renfrewshire,Urban,184500
+Fife,Mixed,374730
+West Lothian,Mixed,187280
+Falkirk,Mixed,161370
+Highland,Rural,235540
+Aberdeenshire,Rural,262690
+Scottish Borders,Rural,116020
+Dumfries and Galloway,Rural,148790
+South Ayrshire,Mixed,112450
+North Ayrshire,Mixed,134220
+East Ayrshire,Mixed,121840
+Perth and Kinross,Rural,153810
+Angus,Rural,116200
+Stirling,Mixed,93470
+Clackmannanshire,Mixed,51540
+Moray,Rural,96580
+East Lothian,Mixed,110330
+Midlothian,Mixed,95150
+East Dunbartonshire,Mixed,108840
+West Dunbartonshire,Urban,87790
+East Renfrewshire,Mixed,96580
+Inverclyde,Urban,76700
+Argyll and Bute,Rural,86220
+Na h-Eileanan Siar,Island,26500
+Orkney Islands,Island,22270
+Shetland Islands,Island,22940

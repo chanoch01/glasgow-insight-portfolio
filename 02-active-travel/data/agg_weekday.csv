@@ -1,0 +1,29 @@
+route,route_type,weekday,avg_cyclists
+Connect2 / Clyde path,Leisure,Friday,324.0
+Connect2 / Clyde path,Leisure,Monday,324.0
+Connect2 / Clyde path,Leisure,Saturday,466.0
+Connect2 / Clyde path,Leisure,Sunday,471.0
+Connect2 / Clyde path,Leisure,Thursday,320.0
+Connect2 / Clyde path,Leisure,Tuesday,321.0
+Connect2 / Clyde path,Leisure,Wednesday,328.0
+Sauchiehall Avenue,Mixed,Friday,283.0
+Sauchiehall Avenue,Mixed,Monday,286.0
+Sauchiehall Avenue,Mixed,Saturday,227.0
+Sauchiehall Avenue,Mixed,Sunday,221.0
+Sauchiehall Avenue,Mixed,Thursday,278.0
+Sauchiehall Avenue,Mixed,Tuesday,290.0
+Sauchiehall Avenue,Mixed,Wednesday,283.0
+South City Way,Commuter,Friday,499.0
+South City Way,Commuter,Monday,498.0
+South City Way,Commuter,Saturday,277.0
+South City Way,Commuter,Sunday,271.0
+South City Way,Commuter,Thursday,500.0
+South City Way,Commuter,Tuesday,496.0
+South City Way,Commuter,Wednesday,502.0
+South West City Way,Commuter,Friday,334.0
+South West City Way,Commuter,Monday,332.0
+South West City Way,Commuter,Saturday,202.0
+South West City Way,Commuter,Sunday,197.0
+South West City Way,Commuter,Thursday,336.0
+South West City Way,Commuter,Tuesday,336.0
+South West City Way,Commuter,Wednesday,333.0

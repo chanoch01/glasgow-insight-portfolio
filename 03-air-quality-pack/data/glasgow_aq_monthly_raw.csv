@@ -1,0 +1,361 @@
+Year,Month,Period,Site,AQMA,Pollutant,Monitor type,Monthly mean (ug/m3),Data capture (%)
+2022,1,2022-01,Hope Street (kerbside),City Centre,NO2,Continuous,62.2,95.1
+2022,1,2022-01,North Street,City Centre,NO2,Diffusion,53.1,100.0
+2022,1,2022-01,Royston Road,City Centre,NO2,Diffusion,47.0,100.0
+2022,1,2022-01,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,51.9,100.0
+2022,1,2022-01,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,46.8,100.0
+2022,1,2022-01,Parkhead Cross,Parkhead Cross,NO2,Diffusion,51.5,100.0
+2022,1,2022-01,Hope Street (kerbside),City Centre,PM10,Continuous,21.5,97.1
+2022,1,2022-01,Townhead,City Centre,PM10,Continuous,18.0,96.1
+2022,2,2022-02,Hope Street (kerbside),City Centre,NO2,Continuous,59.3,95.1
+2022,2,2022-02,North Street,City Centre,NO2,Diffusion,50.9,100.0
+2022,2,2022-02,Royston Road,City Centre,NO2,Diffusion,47.4,100.0
+2022,2,2022-02,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,49.2,100.0
+2022,2,2022-02,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,43.2,100.0
+2022,2,2022-02,Parkhead Cross,Parkhead Cross,NO2,Diffusion,48.3,100.0
+2022,2,2022-02,Hope Street (kerbside),City Centre,PM10,Continuous,22.3,95.0
+2022,2,2022-02,Townhead,City Centre,PM10,Continuous,18.8,98.5
+2022,3,2022-03,Hope Street (kerbside),City Centre,NO2,Continuous,53.7,95.8
+2022,3,2022-03,North Street,City Centre,NO2,Diffusion,50.5,100.0
+2022,3,2022-03,Royston Road,City Centre,NO2,Diffusion,42.3,100.0
+2022,3,2022-03,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,43.3,100.0
+2022,3,2022-03,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,39.3,100.0
+2022,3,2022-03,Parkhead Cross,Parkhead Cross,NO2,Diffusion,45.6,100.0
+2022,3,2022-03,Hope Street (kerbside),City Centre,PM10,Continuous,20.2,99.0
+2022,3,2022-03,Townhead,City Centre,PM10,Continuous,17.2,97.7
+2022,4,2022-04,Hope Street (kerbside),City Centre,NO2,Continuous,52.8,96.9
+2022,4,2022-04,North Street,City Centre,NO2,Diffusion,44.9,100.0
+2022,4,2022-04,Royston Road,City Centre,NO2,Diffusion,41.1,100.0
+2022,4,2022-04,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,42.2,100.0
+2022,4,2022-04,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,39.2,100.0
+2022,4,2022-04,Parkhead Cross,Parkhead Cross,NO2,Diffusion,41.1,100.0
+2022,4,2022-04,Hope Street (kerbside),City Centre,PM10,Continuous,18.8,95.2
+2022,4,2022-04,Townhead,City Centre,PM10,Continuous,15.1,96.4
+2022,5,2022-05,Hope Street (kerbside),City Centre,NO2,Continuous,45.8,96.2
+2022,5,2022-05,North Street,City Centre,NO2,Diffusion,40.6,100.0
+2022,5,2022-05,Royston Road,City Centre,NO2,Diffusion,36.9,100.0
+2022,5,2022-05,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,40.1,100.0
+2022,5,2022-05,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,35.4,100.0
+2022,5,2022-05,Parkhead Cross,Parkhead Cross,NO2,Diffusion,38.1,100.0
+2022,5,2022-05,Hope Street (kerbside),City Centre,PM10,Continuous,17.0,96.3
+2022,5,2022-05,Townhead,City Centre,PM10,Continuous,15.4,98.2
+2022,6,2022-06,Hope Street (kerbside),City Centre,NO2,Continuous,46.3,95.9
+2022,6,2022-06,North Street,City Centre,NO2,Diffusion,41.4,100.0
+2022,6,2022-06,Royston Road,City Centre,NO2,Diffusion,34.9,100.0
+2022,6,2022-06,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,37.4,100.0
+2022,6,2022-06,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,36.0,100.0
+2022,6,2022-06,Parkhead Cross,Parkhead Cross,NO2,Diffusion,37.5,100.0
+2022,6,2022-06,Hope Street (kerbside),City Centre,PM10,Continuous,16.8,98.4
+2022,6,2022-06,Townhead,City Centre,PM10,Continuous,14.6,98.9
+2022,7,2022-07,Hope Street (kerbside),City Centre,NO2,Continuous,43.5,95.2
+2022,7,2022-07,North Street,City Centre,NO2,Diffusion,38.8,100.0
+2022,7,2022-07,Royston Road,City Centre,NO2,Diffusion,34.4,100.0
+2022,7,2022-07,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,35.9,100.0
+2022,7,2022-07,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,35.0,100.0
+2022,7,2022-07,Parkhead Cross,Parkhead Cross,NO2,Diffusion,37.5,100.0
+2022,7,2022-07,Hope Street (kerbside),City Centre,PM10,Continuous,16.0,98.3
+2022,7,2022-07,Townhead,City Centre,PM10,Continuous,13.6,99.6
+2022,8,2022-08,Hope Street (kerbside),City Centre,NO2,Continuous,45.6,96.3
+2022,8,2022-08,North Street,City Centre,NO2,Diffusion,39.5,100.0
+2022,8,2022-08,Royston Road,City Centre,NO2,Diffusion,36.3,100.0
+2022,8,2022-08,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,36.9,100.0
+2022,8,2022-08,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,34.6,100.0
+2022,8,2022-08,Parkhead Cross,Parkhead Cross,NO2,Diffusion,38.4,100.0
+2022,8,2022-08,Hope Street (kerbside),City Centre,PM10,Continuous,16.6,96.1
+2022,8,2022-08,Townhead,City Centre,PM10,Continuous,14.8,97.5
+2022,9,2022-09,Hope Street (kerbside),City Centre,NO2,Continuous,47.4,95.2
+2022,9,2022-09,North Street,City Centre,NO2,Diffusion,42.0,100.0
+2022,9,2022-09,Royston Road,City Centre,NO2,Diffusion,39.4,100.0
+2022,9,2022-09,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,42.0,100.0
+2022,9,2022-09,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,36.8,100.0
+2022,9,2022-09,Parkhead Cross,Parkhead Cross,NO2,Diffusion,38.2,100.0
+2022,9,2022-09,Hope Street (kerbside),City Centre,PM10,Continuous,17.8,100.0
+2022,9,2022-09,Townhead,City Centre,PM10,Continuous,15.2,99.9
+2022,10,2022-10,Hope Street (kerbside),City Centre,NO2,Continuous,56.0,95.1
+2022,10,2022-10,North Street,City Centre,NO2,Diffusion,48.9,100.0
+2022,10,2022-10,Royston Road,City Centre,NO2,Diffusion,43.4,100.0
+2022,10,2022-10,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,44.9,100.0
+2022,10,2022-10,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,39.6,100.0
+2022,10,2022-10,Parkhead Cross,Parkhead Cross,NO2,Diffusion,44.3,100.0
+2022,10,2022-10,Hope Street (kerbside),City Centre,PM10,Continuous,19.0,97.2
+2022,10,2022-10,Townhead,City Centre,PM10,Continuous,16.6,99.8
+2022,11,2022-11,Hope Street (kerbside),City Centre,NO2,Continuous,60.4,96.3
+2022,11,2022-11,North Street,City Centre,NO2,Diffusion,51.5,100.0
+2022,11,2022-11,Royston Road,City Centre,NO2,Diffusion,44.4,100.0
+2022,11,2022-11,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,50.1,100.0
+2022,11,2022-11,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,45.3,100.0
+2022,11,2022-11,Parkhead Cross,Parkhead Cross,NO2,Diffusion,46.1,100.0
+2022,11,2022-11,Hope Street (kerbside),City Centre,PM10,Continuous,21.6,98.0
+2022,11,2022-11,Townhead,City Centre,PM10,Continuous,17.3,98.8
+2022,12,2022-12,Hope Street (kerbside),City Centre,NO2,Continuous,62.6,98.9
+2022,12,2022-12,North Street,City Centre,NO2,Diffusion,55.4,100.0
+2022,12,2022-12,Royston Road,City Centre,NO2,Diffusion,46.7,100.0
+2022,12,2022-12,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,50.7,100.0
+2022,12,2022-12,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,44.6,100.0
+2022,12,2022-12,Parkhead Cross,Parkhead Cross,NO2,Diffusion,52.6,100.0
+2022,12,2022-12,Hope Street (kerbside),City Centre,PM10,Continuous,23.7,99.2
+2022,12,2022-12,Townhead,City Centre,PM10,Continuous,18.8,95.3
+2023,1,2023-01,Hope Street (kerbside),City Centre,NO2,Continuous,59.2,99.7
+2023,1,2023-01,North Street,City Centre,NO2,Diffusion,48.4,100.0
+2023,1,2023-01,Royston Road,City Centre,NO2,Diffusion,44.9,100.0
+2023,1,2023-01,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,45.2,100.0
+2023,1,2023-01,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,43.9,100.0
+2023,1,2023-01,Parkhead Cross,Parkhead Cross,NO2,Diffusion,47.3,100.0
+2023,1,2023-01,Hope Street (kerbside),City Centre,PM10,Continuous,20.7,97.4
+2023,1,2023-01,Townhead,City Centre,PM10,Continuous,18.2,96.3
+2023,2,2023-02,Hope Street (kerbside),City Centre,NO2,Continuous,57.2,97.1
+2023,2,2023-02,North Street,City Centre,NO2,Diffusion,47.4,100.0
+2023,2,2023-02,Royston Road,City Centre,NO2,Diffusion,43.6,100.0
+2023,2,2023-02,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,46.6,100.0
+2023,2,2023-02,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,40.1,100.0
+2023,2,2023-02,Parkhead Cross,Parkhead Cross,NO2,Diffusion,43.7,100.0
+2023,2,2023-02,Hope Street (kerbside),City Centre,PM10,Continuous,21.8,98.2
+2023,2,2023-02,Townhead,City Centre,PM10,Continuous,17.4,97.6
+2023,3,2023-03,Hope Street (kerbside),City Centre,NO2,Continuous,48.9,96.1
+2023,3,2023-03,North Street,City Centre,NO2,Diffusion,44.2,100.0
+2023,3,2023-03,Royston Road,City Centre,NO2,Diffusion,40.4,100.0
+2023,3,2023-03,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,40.9,100.0
+2023,3,2023-03,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,37.0,100.0
+2023,3,2023-03,Parkhead Cross,Parkhead Cross,NO2,Diffusion,39.3,100.0
+2023,3,2023-03,Hope Street (kerbside),City Centre,PM10,Continuous,19.4,96.1
+2023,3,2023-03,Townhead,City Centre,PM10,Continuous,16.8,99.3
+2023,4,2023-04,Hope Street (kerbside),City Centre,NO2,Continuous,44.9,96.2
+2023,4,2023-04,North Street,City Centre,NO2,Diffusion,42.2,100.0
+2023,4,2023-04,Royston Road,City Centre,NO2,Diffusion,35.9,100.0
+2023,4,2023-04,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,37.4,100.0
+2023,4,2023-04,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,36.7,100.0
+2023,4,2023-04,Parkhead Cross,Parkhead Cross,NO2,Diffusion,38.2,100.0
+2023,4,2023-04,Hope Street (kerbside),City Centre,PM10,Continuous,17.6,98.9
+2023,4,2023-04,Townhead,City Centre,PM10,Continuous,15.4,96.0
+2023,5,2023-05,Hope Street (kerbside),City Centre,NO2,Continuous,42.7,97.2
+2023,5,2023-05,North Street,City Centre,NO2,Diffusion,39.1,100.0
+2023,5,2023-05,Royston Road,City Centre,NO2,Diffusion,35.0,100.0
+2023,5,2023-05,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,37.6,100.0
+2023,5,2023-05,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,33.9,100.0
+2023,5,2023-05,Parkhead Cross,Parkhead Cross,NO2,Diffusion,37.7,100.0
+2023,5,2023-05,Hope Street (kerbside),City Centre,PM10,Continuous,16.1,97.0
+2023,5,2023-05,Townhead,City Centre,PM10,Continuous,13.9,99.3
+2023,6,2023-06,Hope Street (kerbside),City Centre,NO2,Continuous,41.5,96.0
+2023,6,2023-06,North Street,City Centre,NO2,Diffusion,37.5,100.0
+2023,6,2023-06,Royston Road,City Centre,NO2,Diffusion,33.3,100.0
+2023,6,2023-06,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,34.4,100.0
+2023,6,2023-06,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,31.1,100.0
+2023,6,2023-06,Parkhead Cross,Parkhead Cross,NO2,Diffusion,35.8,100.0
+2023,6,2023-06,Hope Street (kerbside),City Centre,PM10,Continuous,16.0,99.3
+2023,6,2023-06,Townhead,City Centre,PM10,Continuous,13.6,95.3
+2023,7,2023-07,Hope Street (kerbside),City Centre,NO2,Continuous,43.7,99.2
+2023,7,2023-07,North Street,City Centre,NO2,Diffusion,38.5,100.0
+2023,7,2023-07,Royston Road,City Centre,NO2,Diffusion,34.2,100.0
+2023,7,2023-07,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,35.6,100.0
+2023,7,2023-07,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,30.2,100.0
+2023,7,2023-07,Parkhead Cross,Parkhead Cross,NO2,Diffusion,33.5,100.0
+2023,7,2023-07,Hope Street (kerbside),City Centre,PM10,Continuous,15.2,97.0
+2023,7,2023-07,Townhead,City Centre,PM10,Continuous,12.6,96.9
+2023,8,2023-08,Hope Street (kerbside),City Centre,NO2,Continuous,44.6,96.3
+2023,8,2023-08,North Street,City Centre,NO2,Diffusion,38.7,100.0
+2023,8,2023-08,Royston Road,City Centre,NO2,Diffusion,33.4,100.0
+2023,8,2023-08,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,34.9,100.0
+2023,8,2023-08,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,33.4,100.0
+2023,8,2023-08,Parkhead Cross,Parkhead Cross,NO2,Diffusion,36.1,100.0
+2023,8,2023-08,Hope Street (kerbside),City Centre,PM10,Continuous,16.1,98.6
+2023,8,2023-08,Townhead,City Centre,PM10,Continuous,13.1,96.5
+2023,9,2023-09,Hope Street (kerbside),City Centre,NO2,Continuous,48.1,97.9
+2023,9,2023-09,North Street,City Centre,NO2,Diffusion,40.8,100.0
+2023,9,2023-09,Royston Road,City Centre,NO2,Diffusion,37.1,100.0
+2023,9,2023-09,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,36.3,100.0
+2023,9,2023-09,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,34.7,100.0
+2023,9,2023-09,Parkhead Cross,Parkhead Cross,NO2,Diffusion,37.1,100.0
+2023,9,2023-09,Hope Street (kerbside),City Centre,PM10,Continuous,17.9,95.8
+2023,9,2023-09,Townhead,City Centre,PM10,Continuous,15.3,95.4
+2023,10,2023-10,Hope Street (kerbside),City Centre,NO2,Continuous,48.7,98.0
+2023,10,2023-10,North Street,City Centre,NO2,Diffusion,45.3,100.0
+2023,10,2023-10,Royston Road,City Centre,NO2,Diffusion,38.6,100.0
+2023,10,2023-10,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,40.0,100.0
+2023,10,2023-10,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,39.2,100.0
+2023,10,2023-10,Parkhead Cross,Parkhead Cross,NO2,Diffusion,39.6,100.0
+2023,10,2023-10,Hope Street (kerbside),City Centre,PM10,Continuous,19.1,98.1
+2023,10,2023-10,Townhead,City Centre,PM10,Continuous,15.8,97.9
+2023,11,2023-11,Hope Street (kerbside),City Centre,NO2,Continuous,54.3,99.7
+2023,11,2023-11,North Street,City Centre,NO2,Diffusion,46.5,100.0
+2023,11,2023-11,Royston Road,City Centre,NO2,Diffusion,43.6,100.0
+2023,11,2023-11,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,43.6,100.0
+2023,11,2023-11,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,40.2,100.0
+2023,11,2023-11,Parkhead Cross,Parkhead Cross,NO2,Diffusion,44.5,100.0
+2023,11,2023-11,Hope Street (kerbside),City Centre,PM10,Continuous,20.0,96.6
+2023,11,2023-11,Townhead,City Centre,PM10,Continuous,17.6,95.4
+2023,12,2023-12,Hope Street (kerbside),City Centre,NO2,Continuous,57.8,100.0
+2023,12,2023-12,North Street,City Centre,NO2,Diffusion,53.9,100.0
+2023,12,2023-12,Royston Road,City Centre,NO2,Diffusion,43.8,100.0
+2023,12,2023-12,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,46.6,100.0
+2023,12,2023-12,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,42.5,100.0
+2023,12,2023-12,Parkhead Cross,Parkhead Cross,NO2,Diffusion,48.9,100.0
+2023,12,2023-12,Hope Street (kerbside),City Centre,PM10,Continuous,22.7,99.4
+2023,12,2023-12,Townhead,City Centre,PM10,Continuous,18.2,95.8
+2024,1,2024-01,Hope Street (kerbside),City Centre,NO2,Continuous,41.8,98.5
+2024,1,2024-01,North Street,City Centre,NO2,Diffusion,36.2,100.0
+2024,1,2024-01,Royston Road,City Centre,NO2,Diffusion,33.5,100.0
+2024,1,2024-01,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,34.0,100.0
+2024,1,2024-01,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,28.9,100.0
+2024,1,2024-01,Parkhead Cross,Parkhead Cross,NO2,Diffusion,33.7,100.0
+2024,1,2024-01,Hope Street (kerbside),City Centre,PM10,Continuous,19.8,98.3
+2024,1,2024-01,Townhead,City Centre,PM10,Continuous,17.7,95.7
+2024,2,2024-02,Hope Street (kerbside),City Centre,NO2,Continuous,37.6,95.5
+2024,2,2024-02,North Street,City Centre,NO2,Diffusion,34.8,100.0
+2024,2,2024-02,Royston Road,City Centre,NO2,Diffusion,30.1,100.0
+2024,2,2024-02,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,32.7,100.0
+2024,2,2024-02,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,30.0,100.0
+2024,2,2024-02,Parkhead Cross,Parkhead Cross,NO2,Diffusion,30.7,100.0
+2024,2,2024-02,Hope Street (kerbside),City Centre,PM10,Continuous,19.8,96.3
+2024,2,2024-02,Townhead,City Centre,PM10,Continuous,16.4,99.5
+2024,3,2024-03,Hope Street (kerbside),City Centre,NO2,Continuous,37.3,95.5
+2024,3,2024-03,North Street,City Centre,NO2,Diffusion,31.6,100.0
+2024,3,2024-03,Royston Road,City Centre,NO2,Diffusion,27.8,100.0
+2024,3,2024-03,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,28.3,100.0
+2024,3,2024-03,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,27.8,100.0
+2024,3,2024-03,Parkhead Cross,Parkhead Cross,NO2,Diffusion,29.5,100.0
+2024,3,2024-03,Hope Street (kerbside),City Centre,PM10,Continuous,17.5,98.7
+2024,3,2024-03,Townhead,City Centre,PM10,Continuous,15.2,97.1
+2024,4,2024-04,Hope Street (kerbside),City Centre,NO2,Continuous,31.7,95.4
+2024,4,2024-04,North Street,City Centre,NO2,Diffusion,30.6,100.0
+2024,4,2024-04,Royston Road,City Centre,NO2,Diffusion,27.3,100.0
+2024,4,2024-04,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,27.7,100.0
+2024,4,2024-04,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,25.8,100.0
+2024,4,2024-04,Parkhead Cross,Parkhead Cross,NO2,Diffusion,27.1,100.0
+2024,4,2024-04,Hope Street (kerbside),City Centre,PM10,Continuous,16.0,95.6
+2024,4,2024-04,Townhead,City Centre,PM10,Continuous,13.7,99.5
+2024,5,2024-05,Hope Street (kerbside),City Centre,NO2,Continuous,32.5,99.3
+2024,5,2024-05,North Street,City Centre,NO2,Diffusion,29.0,100.0
+2024,5,2024-05,Royston Road,City Centre,NO2,Diffusion,24.2,100.0
+2024,5,2024-05,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,25.5,100.0
+2024,5,2024-05,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,22.7,100.0
+2024,5,2024-05,Parkhead Cross,Parkhead Cross,NO2,Diffusion,26.2,100.0
+2024,5,2024-05,Hope Street (kerbside),City Centre,PM10,Continuous,16.3,97.0
+2024,5,2024-05,Townhead,City Centre,PM10,Continuous,13.4,95.8
+2024,6,2024-06,Hope Street (kerbside),City Centre,NO2,Continuous,31.5,99.3
+2024,6,2024-06,North Street,City Centre,NO2,Diffusion,28.0,100.0
+2024,6,2024-06,Royston Road,City Centre,NO2,Diffusion,24.6,100.0
+2024,6,2024-06,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,25.9,100.0
+2024,6,2024-06,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,21.6,100.0
+2024,6,2024-06,Parkhead Cross,Parkhead Cross,NO2,Diffusion,25.0,100.0
+2024,6,2024-06,Hope Street (kerbside),City Centre,PM10,Continuous,14.8,99.7
+2024,6,2024-06,Townhead,City Centre,PM10,Continuous,13.1,99.3
+2024,7,2024-07,Hope Street (kerbside),City Centre,NO2,Continuous,30.4,96.3
+2024,7,2024-07,North Street,City Centre,NO2,Diffusion,26.9,100.0
+2024,7,2024-07,Royston Road,City Centre,NO2,Diffusion,22.4,100.0
+2024,7,2024-07,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,25.3,100.0
+2024,7,2024-07,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,22.9,100.0
+2024,7,2024-07,Parkhead Cross,Parkhead Cross,NO2,Diffusion,23.2,100.0
+2024,7,2024-07,Hope Street (kerbside),City Centre,PM10,Continuous,15.2,97.3
+2024,7,2024-07,Townhead,City Centre,PM10,Continuous,12.1,99.0
+2024,8,2024-08,Hope Street (kerbside),City Centre,NO2,Continuous,29.4,95.1
+2024,8,2024-08,North Street,City Centre,NO2,Diffusion,25.9,100.0
+2024,8,2024-08,Royston Road,City Centre,NO2,Diffusion,23.4,100.0
+2024,8,2024-08,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,25.9,100.0
+2024,8,2024-08,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,23.7,100.0
+2024,8,2024-08,Parkhead Cross,Parkhead Cross,NO2,Diffusion,23.9,100.0
+2024,8,2024-08,Hope Street (kerbside),City Centre,PM10,Continuous,15.3,97.0
+2024,8,2024-08,Townhead,City Centre,PM10,Continuous,13.3,97.7
+2024,9,2024-09,Hope Street (kerbside),City Centre,NO2,Continuous,34.0,95.6
+2024,9,2024-09,North Street,City Centre,NO2,Diffusion,30.2,100.0
+2024,9,2024-09,Royston Road,City Centre,NO2,Diffusion,24.9,100.0
+2024,9,2024-09,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,28.2,100.0
+2024,9,2024-09,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,23.9,100.0
+2024,9,2024-09,Parkhead Cross,Parkhead Cross,NO2,Diffusion,25.3,100.0
+2024,9,2024-09,Hope Street (kerbside),City Centre,PM10,Continuous,16.1,98.6
+2024,9,2024-09,Townhead,City Centre,PM10,Continuous,13.4,98.0
+2024,10,2024-10,Hope Street (kerbside),City Centre,NO2,Continuous,35.7,96.9
+2024,10,2024-10,North Street,City Centre,NO2,Diffusion,31.8,100.0
+2024,10,2024-10,Royston Road,City Centre,NO2,Diffusion,27.5,100.0
+2024,10,2024-10,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,30.1,100.0
+2024,10,2024-10,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,25.4,100.0
+2024,10,2024-10,Parkhead Cross,Parkhead Cross,NO2,Diffusion,30.1,100.0
+2024,10,2024-10,Hope Street (kerbside),City Centre,PM10,Continuous,17.9,98.6
+2024,10,2024-10,Townhead,City Centre,PM10,Continuous,15.3,98.4
+2024,11,2024-11,Hope Street (kerbside),City Centre,NO2,Continuous,37.9,95.3
+2024,11,2024-11,North Street,City Centre,NO2,Diffusion,34.6,100.0
+2024,11,2024-11,Royston Road,City Centre,NO2,Diffusion,29.8,100.0
+2024,11,2024-11,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,31.2,100.0
+2024,11,2024-11,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,29.8,100.0
+2024,11,2024-11,Parkhead Cross,Parkhead Cross,NO2,Diffusion,31.7,100.0
+2024,11,2024-11,Hope Street (kerbside),City Centre,PM10,Continuous,18.8,96.5
+2024,11,2024-11,Townhead,City Centre,PM10,Continuous,16.0,97.0
+2024,12,2024-12,Hope Street (kerbside),City Centre,NO2,Continuous,40.3,95.6
+2024,12,2024-12,North Street,City Centre,NO2,Diffusion,36.1,100.0
+2024,12,2024-12,Royston Road,City Centre,NO2,Diffusion,33.9,100.0
+2024,12,2024-12,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,34.7,100.0
+2024,12,2024-12,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,32.1,100.0
+2024,12,2024-12,Parkhead Cross,Parkhead Cross,NO2,Diffusion,33.6,100.0
+2024,12,2024-12,Hope Street (kerbside),City Centre,PM10,Continuous,20.1,97.7
+2024,12,2024-12,Townhead,City Centre,PM10,Continuous,16.4,96.4
+2025,1,2025-01,Hope Street (kerbside),City Centre,NO2,Continuous,37.8,97.9
+2025,1,2025-01,North Street,City Centre,NO2,Diffusion,34.2,100.0
+2025,1,2025-01,Royston Road,City Centre,NO2,Diffusion,29.9,100.0
+2025,1,2025-01,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,31.3,100.0
+2025,1,2025-01,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,27.7,100.0
+2025,1,2025-01,Parkhead Cross,Parkhead Cross,NO2,Diffusion,30.6,100.0
+2025,1,2025-01,Hope Street (kerbside),City Centre,PM10,Continuous,20.5,99.0
+2025,1,2025-01,Townhead,City Centre,PM10,Continuous,16.1,95.4
+2025,2,2025-02,Hope Street (kerbside),City Centre,NO2,Continuous,36.8,98.2
+2025,2,2025-02,North Street,City Centre,NO2,Diffusion,32.0,100.0
+2025,2,2025-02,Royston Road,City Centre,NO2,Diffusion,29.9,100.0
+2025,2,2025-02,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,31.2,100.0
+2025,2,2025-02,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,28.0,100.0
+2025,2,2025-02,Parkhead Cross,Parkhead Cross,NO2,Diffusion,28.9,100.0
+2025,2,2025-02,Hope Street (kerbside),City Centre,PM10,Continuous,18.5,95.1
+2025,2,2025-02,Townhead,City Centre,PM10,Continuous,15.6,97.4
+2025,3,2025-03,Hope Street (kerbside),City Centre,NO2,Continuous,35.0,95.4
+2025,3,2025-03,North Street,City Centre,NO2,Diffusion,29.7,100.0
+2025,3,2025-03,Royston Road,City Centre,NO2,Diffusion,27.0,100.0
+2025,3,2025-03,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,27.1,100.0
+2025,3,2025-03,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,25.9,100.0
+2025,3,2025-03,Parkhead Cross,Parkhead Cross,NO2,Diffusion,27.3,100.0
+2025,3,2025-03,Hope Street (kerbside),City Centre,PM10,Continuous,17.1,98.3
+2025,3,2025-03,Townhead,City Centre,PM10,Continuous,14.1,98.8
+2025,4,2025-04,Hope Street (kerbside),City Centre,NO2,Continuous,32.1,95.5
+2025,4,2025-04,North Street,City Centre,NO2,Diffusion,27.5,100.0
+2025,4,2025-04,Royston Road,City Centre,NO2,Diffusion,23.9,100.0
+2025,4,2025-04,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,27.0,100.0
+2025,4,2025-04,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,23.5,100.0
+2025,4,2025-04,Parkhead Cross,Parkhead Cross,NO2,Diffusion,24.1,100.0
+2025,4,2025-04,Hope Street (kerbside),City Centre,PM10,Continuous,15.8,99.2
+2025,4,2025-04,Townhead,City Centre,PM10,Continuous,13.6,99.0
+2025,5,2025-05,Hope Street (kerbside),City Centre,NO2,Continuous,30.2,99.9
+2025,5,2025-05,North Street,City Centre,NO2,Diffusion,26.5,100.0
+2025,5,2025-05,Royston Road,City Centre,NO2,Diffusion,24.4,100.0
+2025,5,2025-05,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,25.5,100.0
+2025,5,2025-05,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,22.5,100.0
+2025,5,2025-05,Parkhead Cross,Parkhead Cross,NO2,Diffusion,24.5,100.0
+2025,5,2025-05,Hope Street (kerbside),City Centre,PM10,Continuous,15.4,99.2
+2025,5,2025-05,Townhead,City Centre,PM10,Continuous,13.0,99.5
+2025,6,2025-06,Hope Street (kerbside),City Centre,NO2,Continuous,29.1,97.4
+2025,6,2025-06,North Street,City Centre,NO2,Diffusion,24.5,100.0
+2025,6,2025-06,Royston Road,City Centre,NO2,Diffusion,21.8,100.0
+2025,6,2025-06,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,23.8,100.0
+2025,6,2025-06,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,21.8,100.0
+2025,6,2025-06,Parkhead Cross,Parkhead Cross,NO2,Diffusion,23.0,100.0
+2025,6,2025-06,Hope Street (kerbside),City Centre,PM10,Continuous,14.9,96.4
+2025,6,2025-06,Townhead,City Centre,PM10,Continuous,11.9,96.4
+2025,7,2025-07,Hope Street (kerbside),City Centre,NO2,Continuous,27.1,96.6
+2025,7,2025-07,North Street,City Centre,NO2,Diffusion,24.6,100.0
+2025,7,2025-07,Royston Road,City Centre,NO2,Diffusion,21.1,100.0
+2025,7,2025-07,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,22.3,100.0
+2025,7,2025-07,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,21.2,100.0
+2025,7,2025-07,Parkhead Cross,Parkhead Cross,NO2,Diffusion,22.9,100.0
+2025,7,2025-07,Hope Street (kerbside),City Centre,PM10,Continuous,13.8,97.0
+2025,7,2025-07,Townhead,City Centre,PM10,Continuous,12.2,97.1
+2025,8,2025-08,Hope Street (kerbside),City Centre,NO2,Continuous,27.5,97.1
+2025,8,2025-08,North Street,City Centre,NO2,Diffusion,26.1,100.0
+2025,8,2025-08,Royston Road,City Centre,NO2,Diffusion,22.6,100.0
+2025,8,2025-08,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,23.9,100.0
+2025,8,2025-08,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,22.0,100.0
+2025,8,2025-08,Parkhead Cross,Parkhead Cross,NO2,Diffusion,23.5,100.0
+2025,8,2025-08,Hope Street (kerbside),City Centre,PM10,Continuous,14.5,95.0
+2025,8,2025-08,Townhead,City Centre,PM10,Continuous,12.2,98.8
+2025,9,2025-09,Hope Street (kerbside),City Centre,NO2,Continuous,31.7,99.8
+2025,9,2025-09,North Street,City Centre,NO2,Diffusion,26.9,100.0
+2025,9,2025-09,Royston Road,City Centre,NO2,Diffusion,24.7,100.0
+2025,9,2025-09,Dumbarton Road,Byres Road/Dumbarton Road,NO2,Diffusion,25.4,100.0
+2025,9,2025-09,Byres Road,Byres Road/Dumbarton Road,NO2,Diffusion,23.2,100.0
+2025,9,2025-09,Parkhead Cross,Parkhead Cross,NO2,Diffusion,24.0,100.0
+2025,9,2025-09,Hope Street (kerbside),City Centre,PM10,Continuous,15.4,97.2
+2025,9,2025-09,Townhead,City Centre,PM10,Continuous,12.7,96.7
