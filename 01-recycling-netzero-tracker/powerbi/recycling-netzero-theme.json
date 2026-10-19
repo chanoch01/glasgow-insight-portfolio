@@ -1,0 +1,38 @@
+{
+  "name": "Recycling NetZero Theme",
+  "dataColors": [
+    "#2E7D32",
+    "#66BB6A",
+    "#0288D1",
+    "#F57C00",
+    "#FFD54F",
+    "#8E24AA",
+    "#78909C"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#37474F",
+  "tableAccent": "#0288D1",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#37474F" } }],
+        "fontFamily": "Segoe UI",
+        "fontSize": 12
+      }
+    },
+    "titleText": {
+      "*": [{ "color": { "solid": { "color": "#2E7D32" } }, "fontWeight": "600", "fontSize": 14 }]
+    },
+    "card": {
+      "*": {
+        "dataLabel": [{ "color": { "solid": { "color": "#2E7D32" } }, "fontSize": 20 }],
+        "categoryLabel": [{ "color": { "solid": { "color": "#37474F" } }, "fontSize": 11 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "titleText": [{ "color": { "solid": { "color": "#37474F" } }, "fontSize": 12 }]
+      }
+    }
+  }
+}

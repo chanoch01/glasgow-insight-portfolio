@@ -29,9 +29,14 @@ portfolio project built on public data, not commissioned council work.
 - DAX measures for recycling rate, gap to the national average, council ranking,
   year on year and since-2011 change, carbon per resident, and the waste mix. See
   `DAX_MEASURES.md`.
-- A three page report: executive KPIs, a 32 council benchmark, and a net zero view.
-  The matplotlib image in this folder is a faithful mock of those pages so the work
-  can be shown without opening Power BI.
+- A three page report design: executive KPIs, a 32 council benchmark, and a net zero
+  view. `recycling_netzero_dashboard.png` (matplotlib) and `recycling-netzero-mockup.svg`
+  show the planned pages so the work can be seen without Power BI.
+- A Power BI build in `powerbi/`, **in progress**: the data model and the first page
+  (Recycling Comparison) are in place; pages 2 and 3 are still to build. It uses an
+  enriched fact table (adds a Scotland total, rates, year on year and since-2011 changes,
+  and projections to 2030) and an extended calendar (fiscal years, baseline, COVID and
+  target-year flags), plus a custom report theme.
 
 ## Headline insight
 
@@ -45,13 +50,18 @@ This lines up with the new Easter Queenslie recycling facility due in 2027.
 ## How to rebuild
 
 ```bash
+pip install -r ../requirements.txt
 python3 build_dataset.py      # writes the three CSVs into data/
 python3 build_dashboard.py    # writes recycling_netzero_dashboard.png
 ```
 
-To rebuild in Power BI Desktop: load the three CSVs from `data/`, set the
-relationships in the table above, paste the measures from `DAX_MEASURES.md`, and lay
-out the three pages described in the comments at the top of `build_dashboard.py`.
+To work on the Power BI report, open `powerbi/recycling-netzero.pbix` in Power BI
+Desktop. If refresh fails, point the sources at `powerbi/data/` (Transform data, then
+Data source settings). Apply the theme from `powerbi/recycling-netzero-theme.json`
+(View, then Themes, then Browse for themes), and use `DAX_MEASURES.md` for the measures.
+
+Known gap: the extended calendar runs to 2026, while projections run to 2030, so extend
+`powerbi/data/dim_calendar.csv` before building the 2030 target view.
 
 ## Files
 
@@ -63,4 +73,9 @@ out the three pages described in the comments at the top of `build_dashboard.py`
 | `data/fact_waste.csv` | Fact table |
 | `data/dim_local_authority.csv` | Council dimension |
 | `data/dim_calendar.csv` | Calendar dimension |
-| `recycling_netzero_dashboard.png` | The report mock |
+| `recycling_netzero_dashboard.png` | The report mock (matplotlib) |
+| `recycling-netzero-mockup.svg` | Page layout mockup |
+| `powerbi/recycling-netzero.pbix` | Power BI report, in progress |
+| `powerbi/recycling-netzero-theme.json` | Report theme (greens for recycling, blue accent) |
+| `powerbi/data/fact_waste_enriched.csv` | Fact table with derived measures and 2025 to 2030 projections |
+| `powerbi/data/dim_calendar.csv` | Extended calendar for the Power BI model |

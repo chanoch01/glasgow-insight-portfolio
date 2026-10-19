@@ -2,3 +2,12 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+.venv/
+venv/
+
+# Office lock files and Power BI backups
+~$*
+*.backup
+
+# Streamlit local secrets
+.streamlit/secrets.toml

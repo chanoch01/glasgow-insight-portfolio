@@ -1,0 +1,38 @@
+name: Rebuild
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+jobs:
+  rebuild:
+    # Proves every dataset, chart and the template workbook rebuild from the scripts,
+    # and that the Streamlit dashboard loads without errors.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Project 1 - recycling and net zero
+        working-directory: 01-recycling-netzero-tracker
+        run: python build_dataset.py && python build_dashboard.py
+      - name: Project 2 - active travel
+        working-directory: 02-active-travel
+        run: python build_active_travel_data.py && python analysis.py
+      - name: Project 2 - Streamlit app loads
+        working-directory: 02-active-travel
+        run: |
+          python - <<'PY'
+          import os
+          from streamlit.testing.v1 import AppTest
+          at = AppTest.from_file(os.path.abspath("streamlit_app.py"), default_timeout=60).run()
+          assert not at.exception, [e.value for e in at.exception]
+          print(f"{len(at.metric)} KPI tiles rendered")
+          PY
+      - name: Project 3 - air quality pack
+        working-directory: 03-air-quality-pack
+        run: python build_aq_data.py && python build_workbook.py

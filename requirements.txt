@@ -1,0 +1,8 @@
+# Tested with Python 3.13 on 19 October 2026
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.9
+statsmodels>=0.14
+altair>=5.0
+streamlit>=1.45      # width="stretch" replaces the deprecated use_container_width
+openpyxl>=3.1

@@ -50,6 +50,7 @@ good-weather effect.
 ## How to rebuild and run
 
 ```bash
+pip install -r ../requirements.txt
 python3 build_active_travel_data.py   # builds CSVs + SQLite db + aggregates
 python3 analysis.py                   # writes active_travel_analysis.png
 streamlit run streamlit_app.py        # launches the interactive dashboard

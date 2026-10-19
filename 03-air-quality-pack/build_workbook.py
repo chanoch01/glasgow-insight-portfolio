@@ -1,5 +1,5 @@
 """
-Builds Glasgow_Air_Quality_Monthly_Pack.xlsx - a 4 sheet monthly reporting pack.
+Builds Glasgow_Air_Quality_Monthly_Pack_template.xlsx - a 4 sheet monthly reporting pack.
 
 Sheets:
   1. README - what this is, the Power Query steps, the objectives, honesty note
@@ -223,7 +223,7 @@ for rr in range(start, start+6):
     ws4.cell(row=rr, column=kc).font = Font(size=10, color="333333")
     ws4.cell(row=rr, column=kc+2).font = Font(bold=True, color=TEAL)
 
-OUT = "Glasgow_Air_Quality_Monthly_Pack.xlsx"
+OUT = "Glasgow_Air_Quality_Monthly_Pack_template.xlsx"  # finished pack is edited in Excel; never overwrite it
 wb.save(OUT)
 print(f"Saved {OUT}; Raw rows={RAW_LAST-1}, Monthly report rows={n}, Annual combos={len(combos)}")
 print(f"KPI cell refs: 2024 breaches=K{start+1}, 2022 breaches=K{start+2}, HopeSt2022=K{start+3}, HopeSt2024=K{start+4}, reduction=K{start+5}")

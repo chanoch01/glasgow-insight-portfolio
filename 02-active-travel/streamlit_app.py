@@ -62,7 +62,7 @@ line = alt.Chart(m).mark_line().encode(
     y=alt.Y("cyclists:Q", title="Cyclists per month"),
     color=alt.Color("route:N", title="Route"),
 ).properties(height=320)
-st.altair_chart(line, use_container_width=True)
+st.altair_chart(line, width="stretch")
 
 # ---- weekday profile ----
 st.subheader("Weekday profile")
@@ -74,7 +74,7 @@ bar = alt.Chart(wd).mark_bar().encode(
     color=alt.Color("route:N", title="Route"),
     xOffset="route:N",
 ).properties(height=320)
-st.altair_chart(bar, use_container_width=True)
+st.altair_chart(bar, width="stretch")
 
 st.subheader("Growth vs 2021 baseline")
 a = df[df.route.isin(sel_routes)].groupby(["route", "year"]).cyclists.sum().reset_index()
@@ -82,4 +82,4 @@ base = a[a.year == 2021].set_index("route").cyclists
 latest = a[a.year == sel_years[1]].set_index("route").cyclists
 growth = ((latest - base) / base * 100).round(0).reset_index()
 growth.columns = ["Route", f"Growth 2021 to {sel_years[1]} (%)"]
-st.dataframe(growth, use_container_width=True, hide_index=True)
+st.dataframe(growth, width="stretch", hide_index=True)
